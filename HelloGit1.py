@@ -1,1 +1,1 @@
-print ("new hello git update 2.0")
+print ("new hello git update 2")
